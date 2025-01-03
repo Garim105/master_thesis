@@ -1,4 +1,4 @@
-# Enhancing Ensemble Models for Accurate Prediction of Student Performance and Dropout Rates"
+# Enhancing Ensemble Models for Accurate Prediction of Student Performance and Dropout Rates
 
 This research delves into the realm of machine learning algorithms and advanced ensembling techniques. Through my work, I have contributed to the field's understanding of predicting academic achievement and dropout rates with heightened precision.
 
